@@ -1,3 +1,5 @@
+https://bogdan-m-i.github.io/MEDODS/dist/
+
 # vue-med-form
 
 ## Project setup
